@@ -12,8 +12,8 @@ run by the developer of Elite Engineering, this project is built with his
 guidance and is intended to be partially incorporated into the game.
 
 If you are a player of Elite Engineering who wants to contribute to these
-resources, your help is very welcome! Please see [CONTRIBUTING.md]() for
-details.
+resources, your help is very welcome! Please see
+[the contribution guidelines](CONTRIBUTING.md) for details.
 
 ## Things to do
 
