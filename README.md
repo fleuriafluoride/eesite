@@ -7,7 +7,7 @@ Roblox game [Elite Engineering][ee]. It also hosts the associated software for
 
 [ee]: https://www.roblox.com/games/5870888436
 
-This repository is maintained by Fleuria (@fleuriafluoride). Although not
+This repository is maintained by Fleuria (`fleuriafluoride`). Although not
 run by the developer of Elite Engineering, this project is built with his
 guidance and is intended to be partially incorporated into the game.
 
