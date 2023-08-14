@@ -37,7 +37,7 @@ maintainer to be added as a contributor. Your work on the main repository will
 follow the [GitHub flow][github-flow], Where you make changes on a branch, and
 then submit a pull request.
 
-[github flow]: https://docs.github.com/en/get-started/quickstart/github-flow
+[github-flow]: https://docs.github.com/en/get-started/quickstart/github-flow
 
 ## How to write
 
